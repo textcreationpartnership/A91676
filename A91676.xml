@@ -1,0 +1,175 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The representations and consultations of the Generall councell of the armie at S. Albans. With severall propositions to the L. Generall, from the officers of divers regiments of the army, about the present settlement of the kingdome. Also a declaration of His Excellency Thomas L. Fairfax, concerning the Kings Majesty, and the present proceedings in the treaty at the Isle of Wight. With the demands of of [sic] the souldiers which guard His Majesty and the commissioners in the said island, when the treaty is ended: and a copie of his Excellencies letter thereupon.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91676</idno>
+            <idno type="STC">Wing R1110</idno>
+            <idno type="STC">Thomason E472_3</idno>
+            <idno type="STC">ESTC R205715</idno>
+            <idno type="EEBO-CITATION">99865011</idno>
+            <idno type="PROQUEST">99865011</idno>
+            <idno type="VID">162410</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91676)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162410)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 75:E472[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The representations and consultations of the Generall councell of the armie at S. Albans. With severall propositions to the L. Generall, from the officers of divers regiments of the army, about the present settlement of the kingdome. Also a declaration of His Excellency Thomas L. Fairfax, concerning the Kings Majesty, and the present proceedings in the treaty at the Isle of Wight. With the demands of of [sic] the souldiers which guard His Majesty and the commissioners in the said island, when the treaty is ended: and a copie of his Excellencies letter thereupon.</title>
+                  <author>Fairfax, Thomas Fairfax, Baron, 1612-1671.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R.A.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The final page is a letter addressing the pay and quarter of the army signed: Fairfax.</note>
+                  <note>Annotation on Thomason copy: "nouemb: 14th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:162410:1" rendition="simple:additions"/>
+            <p>THE REPRESENTATIONS AND Conſultations of the <hi>Generall Councell</hi> of the ARMIE at <hi>S. Albans.</hi>
+            </p>
+            <p>WITH Severall Propoſitions to the <hi>L. Generall,</hi> from the Officers of divers Regiments of the Army, about the preſent ſettlement of the Kingdome.</p>
+            <p>ALSO <hi>A DECLARATION</hi> OF His Excellency <hi>Thomas L. Fairfax,</hi> concerning the KINGS Majeſty, and the preſent proceedings in the Treaty at the <hi>Jſle of Wight.</hi> With the Demands of of the Souldiers which guard His Majeſty and the Commiſſioners in the ſaid Iſland, when the Treaty is ended: And a Copie of his Excellencies Letter thereupon.</p>
+            <p>London: Printed for <hi>R. A.</hi> 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <div type="part">
+               <pb facs="tcp:162410:2" rendition="simple:additions"/>
+               <pb n="1" facs="tcp:162410:2"/>
+               <head>Severall Papers of the daily proceedings of the Generall Councell of the Army, ſome Speeches made by the Officers, and the Lord-Generalls Declaration to aſsiſt the King and Parliament in ſuch an a<g ref="char:EOLhyphen"/>greement as ſhall be concluded between them.</head>
+               <p>THe firſt day of the meeting of the Generall Aſſem<g ref="char:EOLhyphen"/>bly of the Army being Tueſday the 7. of this in<g ref="char:EOLhyphen"/>ſtant, his Excellency and many of his chiefe Officers met in the Church at S. <hi>Albanes,</hi> and after prayers for ſeeking a bleſſing upon their aſſembling together, and a Sermon, they debated on certaine Papers formerly pre<g ref="char:EOLhyphen"/>ſented to the Lord-Generall in the name of ſome parti<g ref="char:EOLhyphen"/>cular Regiments of the Army, but nothing concluded on this day, for the time of their ſitting on theſe affaires was not long, and ſeverall Officers not yet come to the Head-Quarters.</p>
+               <p>Wedneſday, 8. Nov. the Generall Councell of the Army was fuller then the day before, and it was agreed that the matters firſt inſiſted on ſhould be the quartering of the Army in ſuch a way, as might affoord moſt eaſe to the Countrey; and for that it is impoſſible that with<g ref="char:EOLhyphen"/>out pay an Army ſhould not be burdenſome to the pla<g ref="char:EOLhyphen"/>ces
+<pb n="2" facs="tcp:162410:3"/>where they quarter, they hold it neceſſary to conſi<g ref="char:EOLhyphen"/>der of certain Propoſalls for aſcertaining the pay of the Souldiery.</p>
+               <p n="2">2. The Officers of the Army expreſſed an exceeding great ſenſe of the loſſe of Colonell <hi>Rainsborough,</hi> and thought fit that inquiry ſhould be made about that wic<g ref="char:EOLhyphen"/>ked murder, and that juſtice ſhould be done therein.</p>
+               <p>Novemb. 9. Some Speeches were made by divers Of<g ref="char:EOLhyphen"/>ficers of the Army, expreſſing, that they apprehended a deſigne of ſtopping of pay for the Army, on purpoſe to caſt an Odium upon them, and render them the more burdenſome, and leſſe uſefull to the Kingdome: And notwithſtanding the great care of the Committee and Treaſurers of the Army, and the cheerfull readineſſe of moſt Counties for the payment of Aſſeſſements, as thoſe where they now quarter do affirme, nevertheleſſe the private Souldiers are neceſſitated to take Free-quarter for the preſent, which is very irkſome unto them to be ſo burdenſome to their friends, neither are thoſe wid<g ref="char:EOLhyphen"/>dowes who loſt their husbands in the laſt ingagement, or in the firſt ſervice, and children that loſt their parents, ſufficiently provided for, but are for want of maintenance reduced to great extremities, even to beggery, having not ſufficient proviſion for their ſubſiſtence, and future livelihood.</p>
+               <p>There be alſo ſome Papers from Commiſſary Gen. <hi>Ire<g ref="char:EOLhyphen"/>tons</hi> Regiment and others of the Army, (beſides their late Petition to the Lord Generall) to be conſidered on, wherein they ſet forth that no certain Proviſion hath been made for the payment of their dearly earned wages by the expence of their blood and often hazard of their lives, nor any thing yet perfected for their future ſecurity
+<pb n="3" facs="tcp:162410:3"/>for things done, as Souldiers in relation to the warre which the exegincy thereof hath compelled thereunto, the want whereof they cannot choſe but be very ſenſible of, when they conſider the many ſad examples of bitter and rigorous proceedings at Law againſt ſouldiers for acts done in order to the promotion of the Parliaments ſervice.</p>
+               <p>Novemb. 10. further time was ſpent in debate on the preſent affaires of the Kingdome, and particularly con<g ref="char:EOLhyphen"/>cerning the ſetling of a firme peace, and divers ſpeeches were made by Colonells of the Army, declaring, that they deſire nothing more then to ſee this Kingdome re<g ref="char:EOLhyphen"/>ſtored to a flouriſhing condition in peace and amity, and that the hearts of King and people may be knit together in a threefold cord of love; ſome things were alſo mo<g ref="char:EOLhyphen"/>ved concerning the former Propoſalls, and bringing Delinquents to triall, it hath been alſo deſired, that thoſe who indeavour to render his Excellencies Army odious by aſperſions, and thereby to deprive them of that ho<g ref="char:EOLhyphen"/>nour which they ſo dearly bought, and to incenſe the Kingdome and Souldiers againſt them, may be procee<g ref="char:EOLhyphen"/>ded againſt according to juſtice.</p>
+               <p>Novemb. 11. a Petition was read at the Generall Counſell in the name of the Officers of Col. <hi>Kich</hi> his Regiment, and ſeverall others of the Army with the re<g ref="char:EOLhyphen"/>preſentations following: <hi>viz.</hi>
+               </p>
+               <p n="1">1. That ſpeedy and impartiall Juſtice may be executed upon all the fomentors, contrivers, and actors in the firſt and late Warre.</p>
+               <p n="2">2. That inquiſition be made for the bloud of Col. <hi>Rainsborough.</hi>
+               </p>
+               <p n="3">3. That the ſupreme power may be declared and
+<pb n="4" facs="tcp:162410:4"/>determined, that the want thereof may not be the ground of future (as it hath been of theſe former) Warres.</p>
+               <p n="4">4. That a period be ſet for this preſent Parl. to end as ſoone as may be with ſafety, and proviſions made for fu<g ref="char:EOLhyphen"/>ture Parliaments to meet certain without Writ or ſum<g ref="char:EOLhyphen"/>mons.</p>
+               <p n="5">5. That rules may be ſet down between the people and their Repreſentatives.</p>
+               <p n="6">6. That Lawes may be made in things civill to bind all men, ſo that no man in caſe of offence, may be freed from that Law whereunto another is ſubject.</p>
+               <p n="7">7. That all thoſe common grievances and deſires in our Declarations of <hi>June</hi> 14. and <hi>June</hi> 23. 1647. and ex<g ref="char:EOLhyphen"/>preſſed in the <hi>London</hi> Petition, be ſpeedily granted and redreſſed.</p>
+               <p n="8">8. That preſent Proviſion be made for the Conſtant pay of the Army.</p>
+               <p n="9">9. That the arrears due from the 15. of <hi>January,</hi> may be paid off, before we be Commanded to pay Quarters, and that there may be no other abatement from Officers and Souldiers for free Quarter, then according to the rates ſet downe in the Ordinance of Parliament, of the 24. day <hi>December</hi> laſt.</p>
+               <p n="10">10. That the Country may be paid for our free Quar<g ref="char:EOLhyphen"/>ter, according to the Deduction out of our pay out of their Aſſeſſements.</p>
+               <p n="11">11. That in as much as the Aſſeſſements fall ſhort to pay the Army. That therefore there may be Additionall ſupplies monethly out of the Eſtates of the old and new Delinquents, that there be no more Tax or Charge to the Commonwealth.</p>
+               <pb n="5" facs="tcp:162410:4"/>
+               <p n="12">12. That fotthwith an Accompt be called for from all perſons, that have been betruſted with any thing for the State, that the Kingdom may be ſatisfied therein.</p>
+               <p n="13">13. That the <hi>Deanes,</hi> and <hi>Chapters</hi> Lands may be given to pay the Souldiers Arreares, ſeeing the Parl. have gi<g ref="char:EOLhyphen"/>ven away the Delinquents Eſtates that ſhould have done it.</p>
+               <p>His Excellency the Lord Generall hath alſo declared as followeth.</p>
+               <p>
+                  <hi>That he may not be the diſſatisfaction of his friends, the ſub<g ref="char:EOLhyphen"/>ject of his Enemies malice, and the ſuſpition of many in the Kingdome, he ſhall in faithfullneſſe and clearneſſe declare, that no worldly thing is ſo deare unto him, as the compleat ſet<g ref="char:EOLhyphen"/>ling of the liberties and peace of the Kingdome, and that he will proceed to ſuch things as may give moſt hopes of Juſtice and righteouſneſſe to flow down equally to all, without any o<g ref="char:EOLhyphen"/>verture tending to overthrow the government of the King<g ref="char:EOLhyphen"/>dome, and that he will cleerly commit his ſtock or ſhare of inte<g ref="char:EOLhyphen"/>reſt in this Kingdome, into the common bottome of Parlia<g ref="char:EOLhyphen"/>ments. And when his Majeſty ſhall give his concurrence to what is tendred, and what elſe ſhall be propoſed by the Parlia<g ref="char:EOLhyphen"/>ment, neceſſary for procuring the Righ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s and Liberties of the People, his Excellency will (to the utmoſt of his endeavours) maintain and defend his Majeſty and his Parliament in that juſt long deſired Agreement. And whereas it hath been ſug<g ref="char:EOLhyphen"/>geſted, or ſuſpected, that the proceedings of the Army have been to overthrow Presbyterie, or hinder the ſettlement there<g ref="char:EOLhyphen"/>of, and to have the Independent Government up, he doth clearly diſclaim and diſſavour any ſuch deſigne.</hi>
+               </p>
+            </div>
+            <div type="letter">
+               <pb n="6" facs="tcp:162410:5"/>
+               <head>His Excellency the Lord Gen. FAIRFAX hath ſent a Letter to the Committee for the Army in theſe words.</head>
+               <p>
+                  <hi>HAving had a meeting of divers Officers of the Army, apprehend their generall ſad Reſentment of the many preſſures now lying upon the Kingdom, in particular, that of free Quarter, whereby they (and the Souldiers under their Command who have faithfully ſerved their Generation) are even a burden to themſelves, becauſe they are ſo much to the poor Countrey, which is the more grievous to them, becauſe they have generally paid their Taxes, and yet the Army not enabled to pay their Quarters, or provide themſelves neceſſa<g ref="char:EOLhyphen"/>ries againſt the injury of the approaching ſeaſon. I hoped ere this we ſhould have received ſome good fruit of your laſt be<g ref="char:EOLhyphen"/>ing with us, the matters then agreed, being of ſuch publike concernment, and ſo much requiring expedition. I deſire you to improve your utmoſt endeavour for a quick diſpatch in pro<g ref="char:EOLhyphen"/>viding effectually for the premiſes to prevent thoſe ill conſe<g ref="char:EOLhyphen"/>quences which otherwaies delay therein may produce. I requeſt you to communicate this to the Houſe: ſo hoping to heare ſpeedily from you, I remaine</hi>
+               </p>
+               <closer>
+                  <signed>Your very aſſured Friend, FAIRFAX.</signed>
+               </closer>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
